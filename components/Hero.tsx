@@ -34,6 +34,7 @@ export function Hero() {
                         method="POST"
                         className="flex flex-col sm:flex-row gap-3 max-w-md"
                     >
+                        <input type="hidden" name="_captcha" value="false" />
                         <input
                             type="email"
                             name="email"
