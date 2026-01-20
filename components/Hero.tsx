@@ -30,7 +30,7 @@ export function Hero() {
                     transition={{ duration: 0.5, delay: 0.2 }}
                 >
                     <form
-                        action="https://formsubmit.co/your-email@example.com"
+                        action="https://formsubmit.co/kiruthivarma57@gmail.com"
                         method="POST"
                         className="flex flex-col sm:flex-row gap-3 max-w-md"
                     >
